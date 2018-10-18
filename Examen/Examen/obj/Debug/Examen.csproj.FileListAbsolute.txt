@@ -1,0 +1,10 @@
+c:\users\edgar saavedra\source\repos\Examen\Examen\bin\Debug\Examen.exe.config
+c:\users\edgar saavedra\source\repos\Examen\Examen\bin\Debug\Examen.exe
+c:\users\edgar saavedra\source\repos\Examen\Examen\bin\Debug\Examen.pdb
+c:\users\edgar saavedra\source\repos\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+c:\users\edgar saavedra\source\repos\Examen\Examen\obj\Debug\Examen.Form1.resources
+c:\users\edgar saavedra\source\repos\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+c:\users\edgar saavedra\source\repos\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.Cache
+c:\users\edgar saavedra\source\repos\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+c:\users\edgar saavedra\source\repos\Examen\Examen\obj\Debug\Examen.exe
+c:\users\edgar saavedra\source\repos\Examen\Examen\obj\Debug\Examen.pdb
